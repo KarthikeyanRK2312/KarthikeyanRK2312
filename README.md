@@ -1,7 +1,7 @@
 ## Hi there, it's me Karthikeyan
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- Here's my [projects](https://karthikeyan-works.vercel.app/)                                                 
+- Here's my [projects](https://karthikeyan-works.vercel.app/)                                  
 - I’m currently learning MERN stack and DSA 
 - Fun fact: I'm learning Spanish
 - How to reach me:
